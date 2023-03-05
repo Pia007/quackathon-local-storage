@@ -38,6 +38,7 @@ const Favorites = () => {
     console.log("newItems", newItems);
 
     setNewList(updatedImages);
+    console.log(newList)
   };
 
   // map and display images
